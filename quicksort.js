@@ -8,6 +8,3 @@ let quicksort = (arr) => {
         }
     }
 }
-let arr = [10, 5, 8, 4, 99, 56, 23, 1, 2]
-quicksort(arr)
-console.log(arr)
